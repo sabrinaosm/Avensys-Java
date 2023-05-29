@@ -1,1 +1,1 @@
-"# avensys-java" 
+Java Exercises during the HTDX Training Programme.
